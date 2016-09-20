@@ -1,0 +1,2 @@
+FeatureName     	   HashVal	MinVal	MaxVal	Weight	%Weight
+Constant        	    116060	1.00	1.00	0.00	   0.00
